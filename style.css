@@ -1,0 +1,42 @@
+/*
+Theme Name: Speed of Sound
+Theme URI: https://speedofsound
+Author: Richard Limbada
+Author URI: https://richardlimbada.com
+Description: Music band theme for Coldplay
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: speedofsound
+*/
+@import url('bootstrap/css/bootstrap-responsive.css'); 
+@import url('bootstrap/css/bootstrap.css'); 
+@import url('css/_particles.css');
+@import url('css/styles.css'); 
+body { 
+     padding-bottom: 40px;
+    overflow-x: hidden !important;
+}
+
+#menu-footer-menu{
+	list-style: none;
+
+}
+.tour-center-edit {
+	position: relative;
+	z-index:-10;
+	top: -410px;
+	
+}
+
+.hero-slider h1 {
+	font-size:45px;
+	margin-bottom: 60px;
+}
+.hero-slider h4 {
+	text-align: center;
+	margin-top: 40px;
+}
+
+
+
